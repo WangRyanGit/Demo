@@ -1,1 +1,1 @@
-spring使用maven整合redis初级练手
+使用maven整合spring和redis初级练手
